@@ -1,0 +1,32 @@
+.title {
+  background-color: black;
+  color: white;
+}
+p {
+  display: inline;
+  color: #81b0b0;
+}
+
+h1{
+  text-align: center;
+  padding: 30px;
+  font-weight: lighter;
+  margin: 15px 30px;
+    
+  }
+
+
+
+article {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+img {
+  border-radius: 50%;
+  max-width: 110px;
+}
+.bio {
+  border-left: 1px solid grey;
+  padding-left: 20px;
+}

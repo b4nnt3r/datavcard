@@ -8,7 +8,9 @@ function place() {
 
   let template = `
   <div class="title">
+  <header>
   <h1>${data.name}</h1>
+  </header>
   </div>
   <article>
     <div class="me">
